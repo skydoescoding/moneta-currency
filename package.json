@@ -2,5 +2,5 @@
     "name": "moneta_currency",
     "description": "",
     "version": "1.0.0",
-    "main": "server.js",
+    "main": "server.js"
 }
